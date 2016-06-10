@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.1.1"
+version       = "0.1.2"
 author        = "Your Name"
 description   = "Simple package to learn about Nimble"
 license       = "MIT"
